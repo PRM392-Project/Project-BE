@@ -1,0 +1,59 @@
+## Ignore Visual Studio temporary files, build results, and
+## user-generated files
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+*.log
+*.tlog
+*.cache
+*.pdb
+*.dbmdl
+
+# Uncomment if you have tasks that create the project's static files in wwwroot
+# wwwroot/
+
+# Auto-generated files
+Generated_Code/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Publish results
+[Pp]ublish/
+out/
+
+# NuGet
+*.nupkg
+# The packages folder can be ignored because of Package Restore
+**/packages/*
+!**/packages/build/
+!**/packages/repositories.config
+
+# Entity Framework
+*.edmx.diagram
+*.edmx.sql
+*.tt
+*.ttinclude
+
+# Rider & VS Code
+.idea/
+.vscode/
+
+# JetBrains Rider
+*.sln.iml
+
+# Others
+.env
+*.db
+*.sqlite
+*.mdf
+*.ldf

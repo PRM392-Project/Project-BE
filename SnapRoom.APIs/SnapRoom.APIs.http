@@ -1,0 +1,6 @@
+@SnapRoom.APIs_HostAddress = http://localhost:5009
+
+GET {{SnapRoom.APIs_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
